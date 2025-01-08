@@ -357,6 +357,8 @@ const Theory = ({ onReturnHome }) => {
                     alt="Rysunek trójkąta prostokątnego"
                     className="w-auto h-60 rounded-lg shadow-md mx-auto"
                   />
+                  <br />
+                  <br />
                   <div className="pl-4">
                     <p>sin(α) = 4/5</p>
                     <p>tan(α) = 4/3</p>
