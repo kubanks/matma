@@ -187,7 +187,9 @@ const SplashScreen = ({ onComplete }) => {
         <h1 className="text-4xl font-bold text-blue-600 mb-4">
           Matematyczny Quiz
         </h1>
-        <p className="text-gray-600 mb-8">Poznaj funkcje trygonometryczne</p>
+        <p className="text-gray-600 mb-8">
+          Poznaj funkcje trygonometryczne kąta ostrego
+        </p>
 
         <div className="w-64 h-2 bg-blue-100 rounded-full overflow-hidden">
           <div
